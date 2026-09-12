@@ -18,7 +18,7 @@ Low-acyl gellan gum produces firmer and more brittle gels and is widely used in 
 
 ## Technical Topics
 
-- Gellan Gum (E418) properties
+- [Gellan Gum Properties and Functional Characteristics](docs/gellan-gum-properties.md)
 - High-acyl vs. low-acyl gellan gum
 - Gel formation and gel strength
 - Suspension and stabilization
@@ -26,7 +26,6 @@ Low-acyl gellan gum produces firmer and more brittle gels and is widely used in 
 - Gellan gum in beverages
 - Gellan gum in plant-based milk
 - Gellan gum in plant tissue culture
-- Gellan gum in fruit preparations
 
 ## Further Technical Reference
 
