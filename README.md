@@ -31,4 +31,4 @@ Low-acyl gellan gum produces firmer and more brittle gels and is widely used in 
 
 For a more detailed knowledge base covering Gellan Gum (E418), its properties, applications, and technical information, visit:
 
-https://e418.org/
+[Gellan Gum (E418) Knowledge Base](https://e418.org/)
