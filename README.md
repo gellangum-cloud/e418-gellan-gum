@@ -19,7 +19,7 @@ Low-acyl gellan gum produces firmer and more brittle gels and is widely used in 
 ## Technical Topics
 
 - [Gellan Gum Properties and Functional Characteristics](docs/gellan-gum-properties.md)
-- High-acyl vs. low-acyl gellan gum
+- [High-acyl vs. low-acyl gellan gum](https://www.cinogel.com/p/high-acyl-gellan-gum-vs-low-acyl-gellan.html)
 - Gel formation and gel strength
 - Suspension and stabilization
 - Gellan gum dosage
